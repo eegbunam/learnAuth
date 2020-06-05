@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>637133884789-fs22rfj0g6f2nl04eij1jhrcl7enes8s.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.637133884789-fs22rfj0g6f2nl04eij1jhrcl7enes8s</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDGeA1PQEJgXeJ2PR0sl--7Eu1tZ0GUvXY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>637133884789</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ebukaegbunam.auth</string>
+	<key>PROJECT_ID</key>
+	<string>authlearn-8f941</string>
+	<key>STORAGE_BUCKET</key>
+	<string>authlearn-8f941.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:637133884789:ios:e9ca6c788347a425b6973c</string>
+	<key>DATABASE_URL</key>
+	<string>https://authlearn-8f941.firebaseio.com</string>
+</dict>
+</plist>

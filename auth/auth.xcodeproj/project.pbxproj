@@ -13,6 +13,8 @@
 		434C6041247F49DD00595876 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 434C603F247F49DD00595876 /* Main.storyboard */; };
 		434C6043247F49E200595876 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 434C6042247F49E200595876 /* Assets.xcassets */; };
 		434C6046247F49E200595876 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 434C6044247F49E200595876 /* LaunchScreen.storyboard */; };
+		43EE9176248AF0C900AF0807 /* SignUpVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43EE9175248AF0C900AF0807 /* SignUpVC.swift */; };
+		43EE9178248AF72B00AF0807 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 43EE9177248AF72B00AF0807 /* GoogleService-Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		434C6042247F49E200595876 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		434C6045247F49E200595876 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		434C6047247F49E200595876 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		43EE9175248AF0C900AF0807 /* SignUpVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpVC.swift; sourceTree = "<group>"; };
+		43EE9177248AF72B00AF0807 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,10 +63,12 @@
 				434C6039247F49DD00595876 /* AppDelegate.swift */,
 				434C603B247F49DD00595876 /* SceneDelegate.swift */,
 				434C603D247F49DD00595876 /* ViewController.swift */,
+				43EE9175248AF0C900AF0807 /* SignUpVC.swift */,
 				434C603F247F49DD00595876 /* Main.storyboard */,
 				434C6042247F49E200595876 /* Assets.xcassets */,
 				434C6044247F49E200595876 /* LaunchScreen.storyboard */,
 				434C6047247F49E200595876 /* Info.plist */,
+				43EE9177248AF72B00AF0807 /* GoogleService-Info.plist */,
 			);
 			path = auth;
 			sourceTree = "<group>";
@@ -127,6 +133,7 @@
 			files = (
 				434C6046247F49E200595876 /* LaunchScreen.storyboard in Resources */,
 				434C6043247F49E200595876 /* Assets.xcassets in Resources */,
+				43EE9178248AF72B00AF0807 /* GoogleService-Info.plist in Resources */,
 				434C6041247F49DD00595876 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -138,6 +145,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				43EE9176248AF0C900AF0807 /* SignUpVC.swift in Sources */,
 				434C603E247F49DD00595876 /* ViewController.swift in Sources */,
 				434C603A247F49DD00595876 /* AppDelegate.swift in Sources */,
 				434C603C247F49DD00595876 /* SceneDelegate.swift in Sources */,
